@@ -1,0 +1,15 @@
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\bin\Debug\net6.0\RemoveOneElement.exe
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\bin\Debug\net6.0\RemoveOneElement.deps.json
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\bin\Debug\net6.0\RemoveOneElement.runtimeconfig.json
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\bin\Debug\net6.0\RemoveOneElement.dll
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\bin\Debug\net6.0\ref\RemoveOneElement.dll
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\bin\Debug\net6.0\RemoveOneElement.pdb
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\obj\Debug\net6.0\RemoveOneElement.csproj.AssemblyReference.cache
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\obj\Debug\net6.0\RemoveOneElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\obj\Debug\net6.0\RemoveOneElement.AssemblyInfoInputs.cache
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\obj\Debug\net6.0\RemoveOneElement.AssemblyInfo.cs
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\obj\Debug\net6.0\RemoveOneElement.csproj.CoreCompileInputs.cache
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\obj\Debug\net6.0\RemoveOneElement.dll
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\obj\Debug\net6.0\ref\RemoveOneElement.dll
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\obj\Debug\net6.0\RemoveOneElement.pdb
+D:\Programming\LeetCode\Easy tasks\Remove One Element to Make the Array Strictly Increasing\RemoveOneElement\RemoveOneElement\obj\Debug\net6.0\RemoveOneElement.genruntimeconfig.cache
