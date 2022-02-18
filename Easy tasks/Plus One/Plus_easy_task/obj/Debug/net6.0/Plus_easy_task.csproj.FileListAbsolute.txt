@@ -1,0 +1,15 @@
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\bin\Debug\net6.0\Plus_easy_task.exe
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\bin\Debug\net6.0\Plus_easy_task.deps.json
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\bin\Debug\net6.0\Plus_easy_task.runtimeconfig.json
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\bin\Debug\net6.0\Plus_easy_task.dll
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\bin\Debug\net6.0\ref\Plus_easy_task.dll
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\bin\Debug\net6.0\Plus_easy_task.pdb
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\obj\Debug\net6.0\Plus_easy_task.csproj.AssemblyReference.cache
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\obj\Debug\net6.0\Plus_easy_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\obj\Debug\net6.0\Plus_easy_task.AssemblyInfoInputs.cache
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\obj\Debug\net6.0\Plus_easy_task.AssemblyInfo.cs
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\obj\Debug\net6.0\Plus_easy_task.csproj.CoreCompileInputs.cache
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\obj\Debug\net6.0\Plus_easy_task.dll
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\obj\Debug\net6.0\ref\Plus_easy_task.dll
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\obj\Debug\net6.0\Plus_easy_task.pdb
+D:\Programming\LeetCode\Easy_plus_one\Plus_easy_task\Plus_easy_task\obj\Debug\net6.0\Plus_easy_task.genruntimeconfig.cache
