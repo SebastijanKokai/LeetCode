@@ -1,0 +1,15 @@
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\obj\Debug\net6.0\Valid_Sudoku.csproj.AssemblyReference.cache
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\obj\Debug\net6.0\Valid_Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\obj\Debug\net6.0\Valid_Sudoku.AssemblyInfoInputs.cache
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\obj\Debug\net6.0\Valid_Sudoku.AssemblyInfo.cs
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\obj\Debug\net6.0\Valid_Sudoku.csproj.CoreCompileInputs.cache
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\bin\Debug\net6.0\Valid_Sudoku.exe
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\bin\Debug\net6.0\Valid_Sudoku.deps.json
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\bin\Debug\net6.0\Valid_Sudoku.runtimeconfig.json
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\bin\Debug\net6.0\Valid_Sudoku.dll
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\bin\Debug\net6.0\ref\Valid_Sudoku.dll
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\bin\Debug\net6.0\Valid_Sudoku.pdb
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\obj\Debug\net6.0\Valid_Sudoku.dll
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\obj\Debug\net6.0\ref\Valid_Sudoku.dll
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\obj\Debug\net6.0\Valid_Sudoku.pdb
+D:\Programming\LeetCode\Medium tasks\C# - Valid Sudoku\Valid_Sudoku\Valid_Sudoku\obj\Debug\net6.0\Valid_Sudoku.genruntimeconfig.cache
